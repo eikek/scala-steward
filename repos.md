@@ -1,0 +1,8 @@
+- docspell/swiss-qr-addon
+- eikek/binny
+- eikek/calev
+- eikek/docspell
+- eikek/emil
+- eikek/sbt-openapi-schema
+- eikek/sharry
+- eikek/yamusca
