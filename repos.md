@@ -1,4 +1,3 @@
-- docspell/swiss-qr-addon
 - eikek/binny
 - eikek/calev
 - eikek/docspell
