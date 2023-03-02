@@ -26,5 +26,6 @@ jobs:
         with:
           github-token: ${{ steps.generate-token.outputs.token }}
           repos-file: 'repos.md'
-          author-email: eikek-scala-steward@users.noreply.github.comb
+          github-app-auth-only: 'true'
+          author-email: eikek-scala-steward@users.noreply.github.com
           author-name: eikek-scala-steward
